@@ -33,7 +33,7 @@ body{
   font-size: 1.15em !important;
 }
 .enablePadding{
-  padding: 20px 45px 0 45px;
+  padding: 2.5em 5em;
 }
 .enableLineHeight{
   line-height: 1.5em !important;
@@ -43,6 +43,10 @@ body{
 }
 .enableFontsP{
   font-family: "Open Sans", sans-serif;
+}
+.enableA{
+  text-decoration-skip: ink;
+  color: #1a0dab !important;
 }
 .feature{
   width: 90%;
@@ -54,7 +58,7 @@ body{
 .feature button{
   border: none;
   background-color: #e74c3c;
-  padding: 15px 40px;
+  padding: 10px 40px;
   text-transform: uppercase;
   color: #fefefe;
   margin-top: 0px;
@@ -63,6 +67,7 @@ body{
   outline:none;
   font-family: "Montserrat",sans-serif;
   font-weight: 200;
+  font-size: 14px;
 }
 .feature button:hover{
   cursor: pointer;

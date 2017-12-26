@@ -17,3 +17,6 @@ function toggleSizing(){
   $("#content h1").toggleClass("enableSizeH1");
   $("#content p").toggleClass("enableSizeP");
 }
+function toggleA(){
+  $("#content p a").toggleClass("enableA");
+}
